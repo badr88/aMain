@@ -12,7 +12,7 @@ package ghtest;
 public class GHTEST {
 
     public static void main(String[] args) {
-       System.out.println("GH Testing");
+       System.out.println("GH Testinggggggggggggg");
     }
     
 }
